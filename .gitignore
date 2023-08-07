@@ -3,4 +3,5 @@ node_modules
 /.idea
 /.wwebjs_auth
 package-lock.json
-/.env
+realCredentials.env
+/realCredentials.env

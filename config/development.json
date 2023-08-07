@@ -1,0 +1,20 @@
+{
+    "MONGO_URI": "mongodb+srv://numan:numan@cluster0.h7yiank.mongodb.net/rolemanagement?retryWrites=true&w=majority",
+    "PORT": 5000,
+    "JWT_SECRET_TOKEN": "fAWFYIQbi+nAxmjcRBWop4E6iAz2taBslkkReJVD",
+    "Meta_WA_VerifyToken": "trickTok",
+
+    "Meta_WA_accessToken": "EAAa1HGiPaR0BAFWoppkZA0GLsEcMVGgeWPvRLHBE6GNVPJw0L7rf5XlMhg07JHi8kXxRrP3c4kfyDku8x6NcZAwZBOyCZBVTRUYoi12SgceCtZCRVR0VctAyeIpQjAkSZAQSJNPfUH4vazEEZAOzOpZBc0LvwBdwsUyIt58TVuZBKkZA8yngxkDdQ7pkS7CQfgnqJgcZBaLOifk5pjn63L9Jj5y",
+
+    "Meta_WA_SenderPhoneNumberId": "102131369430522",
+    "Meta_WA_wabaId": "113756781584582",
+    "FRONTEND_BASE_URL": "http://localhost:3000",
+    "STRIPE_SECRET_KEY_OLD": "sk_test_51MJADqIhkdGbsnclbudp4CRk2MAhw9sZylsPsHhCjwsLvgakNsQl0QYL9t67FrhSt8V9NHaLNTWkuIM6BYkoGyhl00qywdCI4c",
+    "STRIPE_SECRET_KEY": "sk_test_51LRLCqDX0ZoJnNMNOTpsw4tbjD8e4HWOgdPsnIAz2GclwRy4KZxCLcCz2x8QAwkwTWtq3zR6Bit3ihoZgRMD1GTT00hB58bB8x",
+    "ULTRA_MESSAGE_INSTANCE_ID": "instance28768",
+    "ULTRA_MESSAGE_TOKEN": "b29dchnlkkb4tubg",
+    "BACKEND_BASE_URL": "https://70f5-119-155-26-102.in.ngrok.io/api/v1",
+    "BACKEND_BASE_URL_OLD": "localhost:5000",
+    "CHAT_DADDY_TEAM_ID": "474921ae-f00b-4641-99cd-a8ead43e1753",
+    "CHAT_DADDY_REFRESH_TOKEN": "3ae6b089-c0b0-42d6-b347-11388624e142"
+}

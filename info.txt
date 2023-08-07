@@ -1,0 +1,18 @@
+{
+    "message":"",
+    "includeTags":["Farhan","Ali"],
+     "ExcludeTags":[""],
+     "contacts":[""],
+     "broadcastHour":[
+         {
+             "weekdayName":"",
+             "from":"",
+             "to":"",
+             "isActive":,
+         }
+     ],
+     "replyTime":,
+     "channel":
+
+
+}

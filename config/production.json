@@ -1,0 +1,20 @@
+{
+    "MONGO_URI": "mongodb+srv://numan:numan@cluster0.h7yiank.mongodb.net/rolemanagement?retryWrites=true&w=majority",
+    "PORT": 6000,
+    "JWT_SECRET_TOKEN": "fAWFYIQbi+nAxmjcRBWop4E6iAz2taBslkkReJVD",
+    "Meta_WA_VerifyToken": "trickTok",
+    "Meta_WA_accessToken": "EAAa1HGiPaR0BAFuquYyU1sD7CIVbhZCZCQrVGRGfjNduZBKZAAWBI6JIXW1KOX0Ufo0D5vZBmq80yYlZCqk2YeGmGCTujXwaQ0Y45ox9RcqYavpcZCFk6H8PBHblkk2Pjr8kBUZCMmCAW6uzIpwZA7gzQjacvYAMFphh8qItiZCCld9Adn3raTTSm4GaObUqvl71t33wcjPlGZBSAZDZD",
+    "Meta_WA_SenderPhoneNumberId": "102131369430522",
+    "Meta_WA_wabaId": "113756781584582",
+    "STRIPE_SECRET_KEY_OLD_DEV": "sk_test_51MJADqIhkdGbsnclbudp4CRk2MAhw9sZylsPsHhCjwsLvgakNsQl0QYL9t67FrhSt8V9NHaLNTWkuIM6BYkoGyhl00qywdCI4c",
+    "STRIPE_SECRET_KEY_CLIENT": "sk_test_51LRLCqDX0ZoJnNMNOTpsw4tbjD8e4HWOgdPsnIAz2GclwRy4KZxCLcCz2x8QAwkwTWtq3zR6Bit3ihoZgRMD1GTT00hB58bB8x",
+    "STRIPE_SECRET_KEY": "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",
+    "FRONTEND_BASE_URL_OLD": "http://192.46.209.63:83",
+    "FRONTEND_BASE_URL": "https://tricktok.co",
+    "ULTRA_MESSAGE_INSTANCE_ID": "instance29517",
+    "ULTRA_MESSAGE_TOKEN": "od01zl09mx7zy5re",
+    "BACKEND_BASE_URL_OLD": "http://192.46.209.63:83/api/",
+    "BACKEND_BASE_URL": "https://tricktok.co/api/",
+    "CHAT_DADDY_TEAM_ID": "474921ae-f00b-4641-99cd-a8ead43e1753",
+    "CHAT_DADDY_REFRESH_TOKEN": "3ae6b089-c0b0-42d6-b347-11388624e142"
+}

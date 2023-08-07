@@ -1,0 +1,68 @@
+- id: bot_41e0c6c52b036781
+  name: Education (EN) (1)
+  startingActionId: init
+  actions:
+    - id: action_👩‍🏫ignupforriallass_2
+      botId: bot_41e0c6c52b036781
+      name: 'Message #2'
+      message:
+        text: >-
+          🥰No problem!  Please let us know the following information:  -Which
+          course are you interested in -The date and time of trial class  We
+          will reply to you as soon as possible💪🏻
+
+
+          ⏱ CS response time is generally: Monday to Saturday: 10:30am-7:00pm
+        buttons: []
+      tags: []
+      notifyUsers: []
+      webhooks: []
+    - id: action_🔰nquireoursesthatweprovide_3
+      botId: bot_41e0c6c52b036781
+      name: 'Message #3'
+      message:
+        text: >-
+          🥰No problem!  Our colleagues will send you the details of the course
+          as soon as possible!
+        buttons: []
+      tags: []
+      notifyUsers: []
+      webhooks: []
+    - id: action_🏤peratingours_4
+      botId: bot_41e0c6c52b036781
+      name: 'Message #4'
+      message:
+        text: >-
+          Our Operating hours are from Monday to Saturday: 10:30 am - 7:00pm
+          Visit your nearest branch or leave a message to know more!
+        buttons: []
+      tags: []
+      notifyUsers: []
+      webhooks: []
+    - id: init
+      botId: bot_41e0c6c52b036781
+      name: Start
+      message:
+        text: 🥰 Hi! Welcome 🎉 How can I help you?
+        buttons:
+          - key: '0'
+            label: Start
+            icon: pi pi-whatsapp whatsapp-icon
+            link: ''
+            phone_number: ''
+            children:
+              - key: 0-0
+                label: 🔰Enquire Courses that we provide
+                icon: pi pi-whatsapp whatsapp-icon
+                children: []
+              - key: 0-1
+                label: 👩‍🏫Sign up for Trial Class
+                icon: pi pi-whatsapp whatsapp-icon
+                children: []
+              - key: 0-2
+                label: 🏤Operating Hours
+                icon: pi pi-whatsapp whatsapp-icon
+                children: []
+      tags: []
+      notifyUsers: []
+      webhooks: []

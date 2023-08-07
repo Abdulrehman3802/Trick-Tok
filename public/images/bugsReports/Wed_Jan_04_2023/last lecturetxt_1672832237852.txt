@@ -1,0 +1,22 @@
+every thing in javascript is object
+we can use"{}" these breakets to make objects
+like let student={
+name : "john",
+id: 321
+}
+we also can include many functions in js
+and make function with the keyword "function" like this
+<===function sayhi(message)
+{
+	console.log(message)
+}
+//this is calling function
+sayhi("hi")===>
+
+we can define function when we are calling(by doing this we save our time because we do not need to define function first(Anonymus function))
+We can also call a function in another function(call back function)
+ why we need nodejs ???
+
+because we are using V8 engine of chrome and whole files didnot load there
+so we start using node js that has v8 engine and we donot need any browser and also we can handle whole files here
+functio

@@ -1,0 +1,288 @@
+- name: Education (EN)
+  actions:
+    - key: '1'
+      label: 'Message #2'
+      data: Data will be here
+      icon: icon will be here
+      message: >-
+        🥰No problem!  Please let us know the following information:  -Which
+        course are you interested in -The date and time of trial class  We will
+        reply to you as soon as possible💪🏻
+
+
+        ⏱ CS response time is generally: Monday to Saturday: 10:30am-7:00pm
+      images: []
+      audios: []
+      videos: []
+      stickers: []
+      documents: []
+      voiceNotes: []
+      delay: Delays
+      products: []
+      phoneNumber: '03110472274'
+      contactName: Shazaib
+      assignee: 6385b2ab2cfb63880d7ac941
+      notifyUsers:
+        - 24e3af0a-c374-46ae-8f4c-06d9ff017bf0
+        - 0e51a419-1860-43d2-ad82-fcd73409f716
+      webhooks:
+        - https://javascript.info/array-methods#summary
+      tags:
+        - 639c4a75e727c58276c29b59
+        - 639c4a76e727c58276c29b5c
+      children:
+        - key: '1'
+          label: 'Message #3'
+          data: Data will be here
+          icon: icon will be here
+          message: >-
+            🥰No problem!  Our colleagues will send you the details of the
+            course as soon as possible!
+          images: []
+          audios: []
+          videos: []
+          stickers: []
+          documents: []
+          voiceNotes: []
+          delays: Delays
+          products: []
+          phoneNumber: '03110472274'
+          contactName: Shazaib
+          assignee: 6385b2ab2cfb63880d7ac941
+          notifyUsers:
+            - 24e3af0a-c374-46ae-8f4c-06d9ff017bf0
+            - 0e51a419-1860-43d2-ad82-fcd73409f716
+          webhooks:
+            - https://javascript.info/array-methods#summary
+          tags:
+            - new
+            - shazaib
+          children: []
+        - key: '1'
+          label: 'Message #4'
+          data: Data will be here
+          icon: icon will be here
+          message: >-
+            Our Operating hours are from Monday to Saturday: 10:30 am - 7:00pm
+            Visit your nearest branch or leave a message to know more!
+          images: []
+          audios: []
+          videos: []
+          stickers: []
+          documents: []
+          voiceNotes: []
+          delays: Delays
+          products: []
+          phoneNumber: '03110472274'
+          contactName: Shazaib
+          assignee: 6385b2ab2cfb63880d7ac941
+          notifyUsers:
+            - 24e3af0a-c374-46ae-8f4c-06d9ff017bf0
+            - 0e51a419-1860-43d2-ad82-fcd73409f716
+          webhooks:
+            - https://javascript.info/array-methods#summary
+          tags:
+            - new
+            - shazaib
+          children:
+            - key: '1'
+              label: 'Message #5'
+              data: Data will be here
+              icon: icon will be here
+              message: >-
+                Our Operating hours are from Monday to Saturday: 10:30 am -
+                7:00pm Visit your nearest branch or leave a message to know
+                more!
+              images: []
+              audios: []
+              videos: []
+              stickers: []
+              documents: []
+              voiceNotes: []
+              delays: Delays
+              products: []
+              phoneNumber: '03110472274'
+              contactName: Shazaib
+              assignee: 6385b2ab2cfb63880d7ac941
+              notifyUsers:
+                - 24e3af0a-c374-46ae-8f4c-06d9ff017bf0
+                - 0e51a419-1860-43d2-ad82-fcd73409f716
+              webhooks:
+                - https://javascript.info/array-methods#summary
+              tags:
+                - new
+                - shazaib
+              children:
+                - key: '1'
+                  label: 'Message #6'
+                  data: Data will be here
+                  icon: icon will be here
+                  message: |-
+                    Yeh Akhari Tha Bhai...... 
+
+
+
+                     Our Operating hours are from Monday to Saturday: 10:30 am - 7:00pm Visit your nearest branch or leave a message to know more!
+                  images: []
+                  audios: []
+                  videos: []
+                  stickers: []
+                  documents: []
+                  voiceNotes: []
+                  delays: Delays
+                  products: []
+                  phoneNumber: '03110472274'
+                  contactName: Shazaib
+                  assignee: 6385b2ab2cfb63880d7ac941
+                  notifyUsers:
+                    - 24e3af0a-c374-46ae-8f4c-06d9ff017bf0
+                    - 0e51a419-1860-43d2-ad82-fcd73409f716
+                  webhooks:
+                    - https://javascript.info/array-methods#summary
+                  tags:
+                    - new
+                    - shazaib
+                  children: []
+    - key: '2'
+      label: 'Message #8'
+      data: Data will be here
+      icon: icon will be here
+      message: >-
+        🥰No problem!  Please let us know the following information:  -Which
+        course are you interested in -The date and time of trial class  We will
+        reply to you as soon as possible💪🏻
+
+
+        ⏱ CS response time is generally: Monday to Saturday: 10:30am-7:00pm
+      images: []
+      audios: []
+      videos: []
+      stickers: []
+      documents: []
+      voiceNotes: []
+      delay: Delays
+      products: []
+      phoneNumber: '03110472274'
+      contactName: Shazaib
+      assignee: 6385b2ab2cfb63880d7ac941
+      notifyUsers:
+        - 24e3af0a-c374-46ae-8f4c-06d9ff017bf0
+        - 0e51a419-1860-43d2-ad82-fcd73409f716
+      webhooks:
+        - https://javascript.info/array-methods#summary
+      tags:
+        - 639c4a75e727c58276c29b59
+        - 639c4a76e727c58276c29b5c
+      children:
+        - key: '1'
+          label: 'Message #9'
+          data: Data will be here
+          icon: icon will be here
+          message: >-
+            🥰No problem!  Our colleagues will send you the details of the
+            course as soon as possible!
+          images: []
+          audios: []
+          videos: []
+          stickers: []
+          documents: []
+          voiceNotes: []
+          delays: Delays
+          products: []
+          phoneNumber: '03110472274'
+          contactName: Shazaib
+          assignee: 6385b2ab2cfb63880d7ac941
+          notifyUsers:
+            - 24e3af0a-c374-46ae-8f4c-06d9ff017bf0
+            - 0e51a419-1860-43d2-ad82-fcd73409f716
+          webhooks:
+            - https://javascript.info/array-methods#summary
+          tags:
+            - new
+            - shazaib
+          children: []
+        - key: '1'
+          label: 'Message #10'
+          data: Data will be here
+          icon: icon will be here
+          message: >-
+            Our Operating hours are from Monday to Saturday: 10:30 am - 7:00pm
+            Visit your nearest branch or leave a message to know more!
+          images: []
+          audios: []
+          videos: []
+          stickers: []
+          documents: []
+          voiceNotes: []
+          delays: Delays
+          products: []
+          phoneNumber: '03110472274'
+          contactName: Shazaib
+          assignee: 6385b2ab2cfb63880d7ac941
+          notifyUsers:
+            - 24e3af0a-c374-46ae-8f4c-06d9ff017bf0
+            - 0e51a419-1860-43d2-ad82-fcd73409f716
+          webhooks:
+            - https://javascript.info/array-methods#summary
+          tags:
+            - new
+            - shazaib
+          children:
+            - key: '1'
+              label: 'Message #11'
+              data: Data will be here
+              icon: icon will be here
+              message: >-
+                Our Operating hours are from Monday to Saturday: 10:30 am -
+                7:00pm Visit your nearest branch or leave a message to know
+                more!
+              images: []
+              audios: []
+              videos: []
+              stickers: []
+              documents: []
+              voiceNotes: []
+              delays: Delays
+              products: []
+              phoneNumber: '03110472274'
+              contactName: Shazaib
+              assignee: 6385b2ab2cfb63880d7ac941
+              notifyUsers:
+                - 24e3af0a-c374-46ae-8f4c-06d9ff017bf0
+                - 0e51a419-1860-43d2-ad82-fcd73409f716
+              webhooks:
+                - https://javascript.info/array-methods#summary
+              tags:
+                - new
+                - shazaib
+              children:
+                - key: '1'
+                  label: 'Message #12'
+                  data: Data will be here
+                  icon: icon will be here
+                  message: |-
+                    Yeh Akhari Tha Bhai...... 
+
+
+
+                     Our Operating hours are from Monday to Saturday: 10:30 am - 7:00pm Visit your nearest branch or leave a message to know more!
+                  images: []
+                  audios: []
+                  videos: []
+                  stickers: []
+                  documents: []
+                  voiceNotes: []
+                  delays: Delays
+                  products: []
+                  phoneNumber: '03110472274'
+                  contactName: Shazaib
+                  assignee: 6385b2ab2cfb63880d7ac941
+                  notifyUsers:
+                    - 24e3af0a-c374-46ae-8f4c-06d9ff017bf0
+                    - 0e51a419-1860-43d2-ad82-fcd73409f716
+                  webhooks:
+                    - https://javascript.info/array-methods#summary
+                  tags:
+                    - new
+                    - shazaib
+                  children: []

@@ -1,0 +1,62 @@
+{
+    "name": "-------------------Start Bot-------------------",
+    "message": {
+        "text": "Hihi! Welcome!\n\nHow can I help you?",
+        "buttons": [
+            {
+                "text": " Make an appointment",
+                "triggerActionId": "action_?akeanappointment_2",
+                "url": "",
+                "phoneNumber": ""
+            },
+            {
+                "text": "Enquire treatment course and plan",
+                "triggerActionId": "action_??nquiretreatmentcourseandplan_3",
+                "url": "",
+                "phoneNumber": ""
+            },
+            {
+                "text": " Contact customer service",
+                "triggerActionId": "action_?????ontactcustomerservice_4",
+                "url": "",
+                "phoneNumber": ""
+            }
+        ],
+        "delays": "",
+        "attachments": [
+            {
+                "filename": "QR_Code_Tue, 15 Nov 2022 15_22_45 GMT.jpeg",
+                "url": "https://s3.ap-east-1.amazonaws.com/chatdaddy-media-store/ce421613fffb10a8",
+                "mimetype": "image/jpeg",
+                "type": "image",
+                "jpegThumbnail": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAHLElEQVR4Xo2Wh1JUSRSGr6+wbpWuu7UgwoIJ0TURBMkGFBVEQckZJIcBBIYZyXlgGGDICJKG7HNt+Q"
+            },
+            {
+                "filename": "Instagram post by @aadi_only19 - tagsroot.com.mp4",
+                "url": "https://s3.ap-east-1.amazonaws.com/chatdaddy-media-store/05cffc087e71549f",
+                "mimetype": "video/mp4",
+                "type": "video"
+            },
+            {
+                "filename": "ss.jpg",
+                "url": "https://s3.ap-east-1.amazonaws.com/chatdaddy-media-store/6abbf3201f5873cd",
+                "mimetype": "image/jpeg",
+                "type": "document"
+            }
+        ],
+        "products": ""
+    },
+    "assignee": "0e51a419-1860-43d2-ad82-fcd73409f716",
+    "tags": [
+        {
+            "name": "test"
+        }
+    ],
+    "notifyUsers": [
+        "24e3af0a-c374-46ae-8f4c-06d9ff017bf0",
+        "0e51a419-1860-43d2-ad82-fcd73409f716"
+    ],
+    "webhooks": [
+        "https://javascript.info/array-methods#summary"
+    ]
+}
